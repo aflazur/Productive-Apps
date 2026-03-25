@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://play-lh.googleusercontent.com/NWRVVF6zXvmcqspJwdFOKcQG6OlsNwpMOxED_DgB6B2BBDeWwAeWZKZxGhgqU0LQVJU",
+    "title": "Forest: Focus for Productivity",
+    "companyName": "Seekrtech",
+    "id": 1,
+    "description": "Forest is a unique productivity app that helps you stay focused and beat phone addiction by letting you grow virtual trees during your work sessions. Set a timer, put your phone down, and watch your forest come to life — but if you leave the app, your tree dies. Over time, you build a lush virtual forest that reflects your dedication and discipline. You can also earn virtual coins to plant real trees through the app's partnership with tree-planting organizations, making your productivity literally good for the planet. Perfect for students, professionals, and anyone looking to build deep focus habits and reduce screen time.",
+    "size": 45,
+    "reviews": 125430,
+    "ratingAvg": 4.6,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 3200 },
+      { "name": "2 star", "count": 2100 },
+      { "name": "3 star", "count": 8400 },
+      { "name": "4 star", "count": 35600 },
+      { "name": "5 star", "count": 76130 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg",
+    "title": "Spotify: Music and Podcasts",
+    "companyName": "Spotify Ltd.",
+    "id": 2,
+    "description": "Spotify is the world's leading music and podcast streaming platform, offering instant access to over 100 million songs, thousands of podcasts, and exclusive audiobook content. Discover new music through personalized playlists like Discover Weekly and Daily Mixes, or explore curated playlists by mood, genre, and activity. With high-quality audio streaming, offline listening, cross-device sync, and a collaborative playlist feature, Spotify makes it easy to enjoy your favorite content wherever you go. Whether you're working out, commuting, or winding down, Spotify delivers the perfect soundtrack for every moment of your day.",
+    "size": 85,
+    "reviews": 2543000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 95000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 800000 },
+      { "name": "5 star", "count": 1228000 }
+    ]
+  },
+  {
+    "image": "https://store-images.s-microsoft.com/image/apps.38456.9007199267003607.4d66cde1-46fd-42b7-93c7-e05d782f5e5d.cfdf91f5-dc2a-4178-96fa-d2c156ae62cd?h=210",
+    "title": "Duolingo: Learn Languages",
+    "companyName": "Duolingo Inc.",
+    "id": 3,
+    "description": "Duolingo is the world's most popular language learning app, trusted by over 500 million learners worldwide. With its science-backed curriculum and game-like lessons, Duolingo makes mastering a new language fun, effective, and completely free. Practice speaking, reading, listening, and writing in over 40 languages — from Spanish and French to Japanese and even fictional languages like High Valyrian. Earn XP, maintain daily streaks, compete with friends on leaderboards, and unlock achievements as you progress. Personalized learning paths adapt to your pace and goals, making Duolingo perfect for beginners and advanced learners alike.",
+    "size": 60,
+    "reviews": 1890000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 42000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 600000 },
+      { "name": "5 star", "count": 1048000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png",
+    "title": "Notion: Notes & Tasks",
+    "companyName": "Notion Labs Inc.",
+    "id": 4,
+    "description": "Notion is the all-in-one productivity workspace that replaces your notes app, task manager, wiki, and project tracker — all in one beautifully designed tool. Write, plan, and organize with powerful building blocks like databases, calendars, kanban boards, and rich text documents. Whether you're a solo creator, student, or part of a large team, Notion adapts to your workflow with customizable templates and flexible page structures. Real-time collaboration, inline comments, and seamless integrations make it easy to stay aligned with teammates. From managing personal goals to running complex projects, Notion gives you the freedom to build your own system, exactly the way you want it.",
+    "size": 75,
+    "reviews": 320000,
+    "ratingAvg": 4.5,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 9000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "4 star", "count": 95000 },
+      { "name": "5 star", "count": 184000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk-uiiYuy4QKYcMvQ4b-wC2EJLgjXGD6CRYQ&s",
+    "title": "Zoom Workplace",
+    "companyName": "Zoom Video Communications",
+    "id": 5,
+    "description": "Zoom Workplace is an enterprise-grade video communication and team collaboration platform trusted by millions of businesses, schools, and individuals around the world. Host crystal-clear HD video meetings with up to 1,000 participants, use screen sharing, virtual backgrounds, and live transcription for seamless communication. Zoom's integrated features include team chat, whiteboarding, phone calls, and asynchronous video clips — making it a complete hub for modern work. With robust security features like end-to-end encryption and waiting room controls, Zoom keeps your meetings safe and professional. Whether you're running a global all-hands or a quick one-on-one, Zoom Workplace keeps your team connected from anywhere.",
+    "size": 110,
+    "reviews": 4100000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 350000 },
+      { "name": "2 star", "count": 210000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 1840000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+    "title": "WhatsApp Messenger",
+    "companyName": "Meta Platforms Inc.",
+    "id": 6,
+    "description": "WhatsApp Messenger is the world's most widely used messaging app, connecting over 2 billion people across 180+ countries completely free of charge. Send text messages, voice notes, photos, videos, documents, and location pins instantly over Wi-Fi or mobile data. Make crystal-clear voice and video calls to anyone, anywhere in the world — even international calls at no cost. Group chats and group calls keep families and teams together, while end-to-end encryption ensures every conversation stays private and secure. With features like disappearing messages, view-once media, and status updates, WhatsApp is the go-to communication tool for everyday life.",
+    "size": 90,
+    "reviews": 17800000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1300000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 4500000 },
+      { "name": "5 star", "count": 9200000 }
+    ]
+  },
+  {
+    "image": "https://www.google.com/maps/about/images/icons/maps_512dp.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 7,
+    "description": "Google Maps is the world's most trusted navigation and local discovery app, helping billions of people get where they need to go every day. Get real-time GPS turn-by-turn directions for driving, walking, cycling, or public transit — with live traffic updates, accident alerts, and alternative routes to keep you moving efficiently. Explore detailed street maps, satellite imagery, and indoor maps for airports, malls, and stadiums. Find nearby restaurants, shops, hospitals, and attractions with reviews, photos, and opening hours at a glance. Features like offline maps, trip planning, and business listings make Google Maps an indispensable tool for commuters, travelers, and explorers worldwide.",
+    "size": 130,
+    "reviews": 14500000,
+    "ratingAvg": 4.1,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1500000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 6100000 }
+    ]
+  },
+  {
+    "image": "https://tb-static.uber.com/prod/udam-assets/85cc6180-80ef-406c-8e52-97d26b9a2b10.svg",
+    "title": "Uber - Request a Ride",
+    "companyName": "Uber Technologies Inc.",
+    "id": 8,
+    "description": "Uber is the ride-hailing app that connects you with safe, reliable drivers in minutes — available in thousands of cities across 70+ countries. Choose from a range of ride options including UberX, Comfort, Black, and XL to match your budget and preference. Get upfront pricing before you book, track your driver's arrival in real time, and pay cashlessly through the app for a seamless experience. Uber's safety features include driver background checks, GPS trip tracking, in-app emergency assistance, and the ability to share your ride status with trusted contacts. Whether it's your daily commute, a late-night trip, or an airport run, Uber gets you there safely and conveniently.",
+    "size": 105,
+    "reviews": 3200000,
+    "ratingAvg": 4.1,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 180000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "5 star", "count": 1220000 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/youtube-icon-illustration-youtube-app-logo-social-media-icon_561158-3674.jpg",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 9,
+    "description": "YouTube is the world's largest video streaming platform, home to over 800 million videos and serving more than 2 billion logged-in users every month. Watch everything from music videos, tutorials, vlogs, live streams, and documentaries to short-form Shorts content — all for free. Subscribe to your favorite creators, get personalized recommendations, and explore trending content across every topic imaginable. YouTube Premium removes ads and enables background play, offline downloads, and access to YouTube Music. Whether you're learning a new skill, staying informed, or simply being entertained, YouTube offers an endless universe of video content for every interest and age group.",
+    "size": 150,
+    "reviews": 25000000,
+    "ratingAvg": 4.2,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 3500000 },
+      { "name": "4 star", "count": 7000000 },
+      { "name": "5 star", "count": 11000000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeZvdgYsOTcbUGEqcKKk6VIWHcOw-smIOatg&s",
+    "title": "Canva: Design & Photo Editor",
+    "companyName": "Canva Pty Ltd",
+    "id": 10,
+    "description": "Canva is the ultimate design platform that empowers everyone — from beginners to professionals — to create stunning visuals with ease. Choose from over 250,000 customizable templates for social media posts, presentations, posters, flyers, logos, resumes, videos, and more. Drag and drop your way to beautiful designs using millions of stock photos, icons, illustrations, and fonts — no design experience required. Canva's collaboration tools let teams work together in real time, share brand kits, and maintain visual consistency across all content. With Canva AI features like text-to-image generation, background remover, and Magic Write, creating professional-quality content has never been faster or more intuitive.",
+    "size": 80,
+    "reviews": 2100000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 30000 },
+      { "name": "3 star", "count": 120000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "5 star", "count": 1400000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/TBRwjS_qfJCSj1m7zZB93FnpJM5fSpMA_wUlFDLxWAb45T9RmwBvQd5cWR5viJJOhkI",
+    "title": "Netflix",
+    "companyName": "Netflix Inc.",
+    "id": 11,
+    "description": "Netflix is the world's leading subscription streaming service, offering an ever-growing library of TV shows, movies, documentaries, anime, and award-winning Netflix Originals in over 190 countries. Enjoy ad-free binge-watching in Ultra HD with Dolby Atmos sound on any device — from your TV to your phone. Download titles for offline viewing on flights or commutes, and create separate profiles for every member of your household. Netflix's powerful recommendation engine learns your taste and serves up content you'll actually love, while new releases drop every week to keep your watchlist full. From blockbuster films to critically acclaimed series, Netflix is where the world's best stories live.",
+    "size": 140,
+    "reviews": 12000000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 3500000 },
+      { "name": "5 star", "count": 4800000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms Inc.",
+    "id": 12,
+    "description": "Instagram is the world's premier photo and video sharing social network, where over 2 billion people come to express themselves, discover new ideas, and connect with communities they love. Share moments through posts, Stories, Reels, and live broadcasts — or browse a curated Explore feed tailored to your interests. Follow friends, creators, brands, and influencers, and engage through likes, comments, DMs, and collaborative content. Instagram's creative tools — filters, stickers, music, and the powerful Reels editor — make it easy to craft content that stands out. Whether you're building a personal brand, running a business, or simply staying connected, Instagram is where culture, creativity, and community come together.",
+    "size": 95,
+    "reviews": 22000000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1800000 },
+      { "name": "2 star", "count": 1200000 },
+      { "name": "3 star", "count": 3000000 },
+      { "name": "4 star", "count": 7000000 },
+      { "name": "5 star", "count": 9000000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGvlmmSzYUQp1tRB8GMkkRezMzUTYABXZBcA&s",
+    "title": "X (Twitter)",
+    "companyName": "X Corp.",
+    "id": 13,
+    "description": "X, formerly known as Twitter, is the real-time social media platform where breaking news, trending topics, and global conversations happen first. Follow journalists, politicians, celebrities, athletes, and thought leaders to get unfiltered takes and live updates as events unfold. Post text, photos, videos, polls, and long-form articles to share your voice with the world — or engage with others through replies, reposts, and quote posts. X Premium unlocks features like longer posts, reduced ads, post editing, and enhanced visibility. With Spaces for live audio conversations and Communities for niche interest groups, X is the digital town square where the world talks, debates, and connects in real time.",
+    "size": 85,
+    "reviews": 15000000,
+    "ratingAvg": 4.0,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 5500000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUyITgyNP2_U_ogNb9_TknsLJpivZ607gvow&s",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "id": 14,
+    "description": "Amazon Shopping puts the world's largest online marketplace right in your pocket, giving you access to hundreds of millions of products across every category imaginable — from electronics and fashion to groceries and home décor. Search, browse, compare prices, and read millions of verified customer reviews to make confident buying decisions. Prime members enjoy lightning-fast free delivery, exclusive deals, and early access to sales like Prime Day. Track your orders in real time, manage returns effortlessly, and shop with peace of mind thanks to Amazon's buyer protection and secure checkout. With personalized recommendations, deal alerts, and Alexa integration, Amazon Shopping makes every purchase faster, smarter, and more satisfying.",
+    "size": 120,
+    "reviews": 8000000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 3500000 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/facebook-app-icon-social-media-logo-vector-illustration-meta_277909-402.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "Facebook",
+    "companyName": "Meta Platforms Inc.",
+    "id": 15,
+    "description": "Facebook is the world's largest social network, connecting over 3 billion people with friends, family, and communities across the globe. Share life updates through posts, photos, videos, and Stories, or go live to broadcast moments as they happen. Join Groups centered around your hobbies, hometown, or profession to find your people, and follow Pages to stay updated on your favorite brands, public figures, and organizations. Facebook Marketplace makes it easy to buy and sell locally, while Events and Fundraisers help you organize and participate in meaningful gatherings and causes. With Messenger tightly integrated, Facebook remains the most comprehensive social platform for staying connected to every corner of your world.",
+    "size": 110,
+    "reviews": 30000000,
+    "ratingAvg": 4.1,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 9000000 },
+      { "name": "5 star", "count": 11000000 }
+    ]
+  },
+  {
+    "image": "https://img.icons8.com/color/1200/telegram-app--v1.jpg",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 16,
+    "description": "Telegram is a fast, secure, and feature-rich cloud-based messaging app used by over 900 million people worldwide. Send messages, photos, videos, and files of any type with no size limits, and enjoy instant delivery across all your devices simultaneously. Create groups with up to 200,000 members, broadcast to unlimited subscribers via Channels, and use Bots to automate tasks and access services right within the app. Telegram's secret chats offer end-to-end encryption with self-destruct timers for the most sensitive conversations, while standard chats benefit from powerful cloud sync and search. With features like polls, reactions, voice chats, video calls, and a built-in Stories feature, Telegram is privacy-first messaging without compromise.",
+    "size": 70,
+    "reviews": 9000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 4500000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+    "title": "Microsoft Teams",
+    "companyName": "Microsoft Corporation",
+    "id": 17,
+    "description": "Microsoft Teams is the all-in-one collaboration hub built for modern workplaces, seamlessly integrating chat, video meetings, file sharing, and app integrations into a single unified platform. Stay connected with your team through persistent chat threads, channel-based conversations, and instant one-on-one or group messaging. Host high-quality video meetings with screen sharing, meeting recording, live captions, and breakout rooms for productive sessions of any size. Deep integration with Microsoft 365 means you can co-author Word, Excel, and PowerPoint files in real time without ever leaving the app. With powerful admin controls, enterprise-grade security, and support for thousands of third-party app integrations, Teams is the productivity backbone for organizations of every size.",
+    "size": 115,
+    "reviews": 6000000,
+    "ratingAvg": 4.2,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 350000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 2550000 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/google-play-store-logo_1273375-804.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "Google Play Store",
+    "companyName": "Google LLC",
+    "id": 18,
+    "description": "Google Play Store is the official digital distribution platform for Android, giving you access to over 3 million apps, games, movies, books, and digital content curated for your device. Discover new favorites through personalized recommendations, editorial picks, and top charts across every category. Download free apps or purchase premium ones with secure payment options including carrier billing, credit cards, and Google Play balance. Automatic app updates keep your software current with the latest features and security patches, while Play Protect scans every app for malware to keep your device safe. Whether you're looking for the next hit game, a productivity tool, or a streaming service, Google Play Store is your gateway to the Android ecosystem.",
+    "size": 30,
+    "reviews": 10000000,
+    "ratingAvg": 4.3,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 900000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 4000000 }
+    ]
+  },
+  {
+    "image": "https://cloud.gmelius.com/public/logos/google/Google_Drive_Logo_512px.png",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "id": 19,
+    "description": "Google Drive is Google's powerful cloud storage and file management platform, offering 15GB of free storage shared across Gmail, Drive, and Photos. Securely upload, store, and access your documents, photos, videos, and files from any device at any time. Share files and folders with specific people or entire teams with granular permission controls — view only, comment, or full edit access. With real-time collaboration built in, multiple users can simultaneously edit Google Docs, Sheets, and Slides stored in Drive. Advanced search powered by Google AI can find your files instantly by content, date, or file type. Whether you're backing up important files, collaborating on a project, or sharing large media, Google Drive makes cloud storage effortless and reliable.",
+    "size": 100,
+    "reviews": 8000000,
+    "ratingAvg": 4.4,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 3700000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png",
+    "title": "Gmail",
+    "companyName": "Google LLC",
+    "id": 20,
+    "description": "Gmail is Google's industry-leading email service, trusted by over 1.8 billion people worldwide for its reliability, security, and intelligent features. Manage your inbox with ease using smart categorization that automatically sorts your email into Primary, Social, and Promotions tabs, keeping the important stuff front and center. Google's powerful spam filters block nearly 99.9% of spam and phishing attempts, while end-to-end encryption keeps your sensitive communications private. Smart Reply and Smart Compose use AI to help you respond to emails faster, and the integrated Google Meet button lets you jump straight from email to video call. With 15GB of free storage, powerful search, and seamless integration across all Google Workspace apps, Gmail is the email platform built for the way modern people work.",
+    "size": 95,
+    "reviews": 20000000,
+    "ratingAvg": 4.5,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 11400000 }
+    ]
+  }
+]
