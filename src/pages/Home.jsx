@@ -26,8 +26,8 @@ export default function Home() {
 
           <div>
             <div className="flex items-center justify-center gap-4">
-              <button className="btn font-bold"> <FaGooglePlay /> Google Play</button>
-              <button className="btn font-bold"><FaAppStore /> App store</button>
+              <a className="flex items-center gap-2  px-5 py-2.5 rounded-lg font-bold border border-gray-400" href="https://play.google.com"><FaGooglePlay />Google Play</a>
+              <a className="flex items-center gap-2  px-5 py-2.5 rounded-lg font-bold border border-gray-400 " href="https://apps.apple.com"><FaAppStore />App Store</a>
             </div>
             <div className=" flex items-center justify-center mt-10">
               <img src={phone} alt="" />

@@ -37,11 +37,11 @@ export default function AppCard({ app }) {
       </h3>
       <div className="flex items-center justify-between text-xs">
         <span className="flex items-center gap-1 text-green-500 font-semibold text-xl">
-          <FaDownload size={10} />
+          <FaDownload size={20} />
           {formatNum(app.downloads)}
         </span>
         <span className="flex items-center gap-1 text-orange-400 font-semibold text-xl">
-          <FaStar size={10} />
+          <FaStar size={20} />
           {app.ratingAvg}
         </span>
       </div>

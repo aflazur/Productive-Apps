@@ -1,10 +1,11 @@
-import { useLoaderData } from "react-router";
+import { useLoaderData, useNavigate } from "react-router";
 import { useState } from "react";
 import { toast } from "react-toastify";
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, } from "recharts";
 import download from "../assets/icon-downloads.png";
 import rating from "../assets/icon-ratings.png";
 import review from "../assets/icon-review.png";
+import notFoundImg from "../assets/App-Error.png";
 
 function formatNum(n) {
   if (n >= 1_000_000) {
@@ -18,10 +19,36 @@ function formatNum(n) {
 
 export default function AppDetailsPage() {
   const app = useLoaderData();
+  const navigate = useNavigate();
   const [installed, setInstalled] = useState(() => {
     const saved = JSON.parse(localStorage.getItem("installedApps") || "[]");
     return saved.some((a) => a.id === app?.id);
   });
+
+  if (!app) {
+    return (
+      <div className="text-center py-16 px-4">
+        <div className="flex items-center justify-center mb-6">
+          <img src={notFoundImg} alt="Not Found" className="w-52" />
+        </div>
+        <p className="text-3xl font-bold text-gray-600 mb-3">
+          OPPS!! APP NOT FOUND
+        </p>
+        <p className="text-base text-gray-400 mb-6">
+          The App you are requesting is not found on our system,
+          please try another app.
+        </p>
+        <button
+          onClick={() => navigate("/apps")}
+          className="bg-gradient-to-r from-[#632EE3] via-[#8148EB] to-[#9F62F2]
+                     text-white px-10 py-3 rounded-xl font-bold
+                     hover:opacity-90 transition-opacity"
+        >
+          Go Back
+        </button>
+      </div>
+    );
+  }
 
   const handleInstall = () => {
     const saved = JSON.parse(localStorage.getItem("installedApps") || "[]");
@@ -41,9 +68,6 @@ export default function AppDetailsPage() {
               src={app.image}
               alt={app.title}
               className="w-[320px] h-[320px] rounded-xl object-cover border border-gray-200"
-              onError={(e) => {
-                e.target.src = "https://placehold.co/112?text=App";
-              }}
             />
           </div>
 

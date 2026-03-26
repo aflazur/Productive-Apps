@@ -1,4 +1,4 @@
-import { useLoaderData, useNavigate } from "react-router";
+import { useLoaderData } from "react-router";
 import { useState, useMemo } from "react";
 import { FaSearch } from "react-icons/fa";
 import AppCard from "../Components/AppCard";
@@ -7,7 +7,6 @@ import notFoundImg from "../assets/App-Error.png"
 export default function Apps() {
   const apps = useLoaderData();
   const [search, setSearch] = useState("");
-  const navigate = useNavigate();
 
   const filtered = useMemo(() => {
     let result = apps.filter((a) =>
@@ -58,7 +57,7 @@ export default function Apps() {
               The App you are requesting is not found on our system.  please try another apps
             </p>
             <button
-              onClick={() => navigate(-0.5)}
+              onClick={() => setSearch("")}
               className="bg-gradient-to-r from-[#632EE3] via-[#8148EB] to-[#9F62F2] text-white px-10 py-3 rounded-xl font-bold mt-4"
             >
              Go Back!
