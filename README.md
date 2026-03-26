@@ -1,12 +1,65 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 About The Project
 
-Currently, two official plugins are available:
+**Hero.IO** is a modern app discovery platform where users can explore, search, and install the best productivity apps — all in one place. Built with a clean UI and smooth user experience, Hero.IO lets you browse trending apps, view detailed information, and manage your installed apps effortlessly.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🏠 **Home Page** — Banner, Stats section & Trending Apps
+- 📱 **All Apps Page** — Browse all apps with live search & sort by downloads
+- 📊 **App Details Page** — Ratings chart, description & install button
+- 💾 **Installation Page** — Manage installed apps with uninstall option
+- 🔍 **Live Search** — Case-insensitive real-time filtering
+- 📦 **LocalStorage** — Installed apps persist across sessions
+- ⬆⬇ **Sort by Downloads** — High to Low / Low to High
+- 💀 **404 Error Page** — Custom not found page
+- 😿 **App Not Found** — Custom UI for invalid app routes
+- ⏳ **Loading Animation** — Skeleton & spinner on page navigation
+- 📱 **Fully Responsive** — Works on all screen sizes
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology : Vite , React Router, tailwindCSS, Recharts, React Toastify, Axios, React Icons |
+---
+
+## 📁 Project Structure
+```
+hero-io/
+├── public/
+│   └── data.json              
+├── src/
+│   ├── assets/                # Images & icons
+│   ├── Components/
+│   │   ├── Navbar.jsx
+│   │   ├── Footer.jsx
+│   │   ├── AppCard.jsx
+│   │   ├── AppDetailsPage.jsx
+│   │   |── LoadingBar.jsx
+│   │   
+│   ├── Layout/
+│   │   └── Layout.jsx
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── Apps.jsx
+│   │   ├── Installation.jsx
+│   │   └── ErrorPage.jsx
+│   ├── main.jsx
+│   └── index.css
+├── .gitignore
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+```
+---
+
+
+## 🌐 Live Demo
+
+🔗 [https://bucolic-clafoutis-dc8064.netlify.app/]
+
+---
